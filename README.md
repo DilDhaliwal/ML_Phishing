@@ -35,4 +35,4 @@ Project Organization
        │   └── tree_model.py          <- Class for decision tree.
        │
        └── visualization  <- Scripts to create exploratory and results oriented visualizations.
-           └── visualize.py          <- Class for visualizations.
+           └── visualize.py          <- Class for the visualizations.
